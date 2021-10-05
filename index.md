@@ -1,8 +1,9 @@
 # FreeFaceTracker
+<img src="https://github.com/Juulpy/FreeFaceTracker/blob/gh-pages/splashscreen.png" alt="alt text" width="250" height="250">
 
 ### Setup instructions
 1. Install and open the FreeFaceTracker app on your phone
-2. Install and open the latest version of OpenTrack
+2. Install and open the latest version of [OpenTrack](https://github.com/opentrack/opentrack/releases)
 3. Open Command prompt on your computer (Windows key+R -> type `cmd`)
 4. Type `ipconfig` and hit enter. Enter your IPv4 address into the respective input field in the app
 5. In OpenTrack under Input, select **UDP over network** and click on the hammer symbol
