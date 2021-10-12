@@ -1,5 +1,5 @@
 # FaceTracker
-<img src="https://github.com/Juulpy/FaceTracker/blob/gh-pages/path992.png" alt="alt text" width="250" height="250">
+<img src="https://github.com/Juulpy/FaceTracker/blob/gh-pages/path992.png" alt="alt text" width="266" height="219">
 
 ### Setup instructions
 1. Install and open the FaceTracker app on your phone
