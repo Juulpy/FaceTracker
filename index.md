@@ -13,14 +13,16 @@
 9. In OpenTrack, click OK on the dialog box and click **Start**
 10. Everything should work!
 
+### Modes
+FaceTracker has 3 modes: Dogfight mode, Normal mode and Cruise mode. These modes change the sensitivity of the rotational and translational axes. Because the sensitivity changes, the face position might also change. This will eventually be corrected for but isn't in the pipeline yet. Also, the sensitivity of each mode will be adjustable.
 
 ### Tuning Opentrack
 Everyone has different preferences when it comes to sensitivity, and luckily this is very intuitive to edit in OpenTrack. If you want to edit the default values, go to the Mapping menu in OpenTrack. Here, you can adjust the mapping to your liking. You can also import a prefab config file. Download this file and import it by clicking on Profile>Open configuration directory.
 
-Additionally, you can edit the filter values. Higher smoothing values do look nice, but also impact lag. 
+Additionally, you can edit the filter values. Higher smoothing values do look nice, but also impact input lag. 
 
 ### Planned features
-* "Cruise mode" where the sensitivity will be reduced
-* "Dogfighting mode" where the translational sensitivity will be slightly reduced, but the rotational sensitivity will be increased
+* Customizable modes
+* Fix the startup crash in some cases (working on it, not yet tracked down.)
 * Face tracking optimalizations (not yet started)
 * Release to iOS (not yet started)
